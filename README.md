@@ -1,0 +1,2 @@
+# ManagingQuarentine
+Data or nothing. 
